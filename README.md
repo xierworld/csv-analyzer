@@ -10,4 +10,4 @@
 <br>异常处理：包含 API 密钥校验、文件上传校验等友好提示</br>
 
 # 运行应用
-可以通过https://share.streamlit.io/构建该应用
+可以通过[share](https://share.streamlit.io/)构建该应用
